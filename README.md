@@ -18,6 +18,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### Listening
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ncn5ksh53c9ebftuf6ke46k81&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
