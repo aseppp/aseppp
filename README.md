@@ -1,4 +1,12 @@
+<div>
+   <img src=https://img.freepik.com/free-vector/complex-background-with-pale-details_23-2149118163.jpg?w=1380&t=st=1674410893~exp=1674411493~hmac=63440765a036cddd7cae60b321feb920f9b29d4559477eaf5aac12cf7f061ca4 style="margin-bottom: 5px;" align="center" />
+</div>
+   
 # Hi there 👋
+<div>
+<img src=https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif style="margin-bottom: 5px;" align="right" width="250" />
+</div>
+
 🔭 I’m currently working on Personal E-commerce App <br>👯 I’m looking to collaborate on Web and Mobile developer<br>🌱 I’m currently learning Create an amazing, modern and scaleable app<br>💬 Ask me about Programming
 
 
@@ -30,6 +38,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## Listening
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ncn5ksh53c9ebftuf6ke46k81&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aseppp&icon=4&color=12)](https://visitcount.itsvg.in)
