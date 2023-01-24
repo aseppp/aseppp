@@ -1,6 +1,6 @@
 <div>
    <!-- <img src=https://img.freepik.com/free-vector/complex-background-with-pale-details_23-2149118163.jpg?w=1380&t=st=1674410893~exp=1674411493~hmac=63440765a036cddd7cae60b321feb920f9b29d4559477eaf5aac12cf7f061ca4 style="margin-bottom: 5px;" align="center" /> -->
-<img src=3506328.jpeg style="margin-bottom: 5px;" align="right" width="250" />
+<img src=3506328.jpeg style="margin-bottom: 20px;" />
 
 </div>
 
