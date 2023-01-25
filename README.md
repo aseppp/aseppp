@@ -35,20 +35,18 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aseppp&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aseppp&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=aseppp&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aseppp&theme=swift&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+<!--
 ## Listening
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ncn5ksh53c9ebftuf6ke46k81&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-
+-->
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aseppp&icon=4&color=12)](https://visitcount.itsvg.in)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=aseppp&&style=flat-square" align="center" />
+</div> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
