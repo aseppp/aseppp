@@ -10,7 +10,8 @@
 <img src=https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif style="margin-bottom: 5px;" align="right" width="250" />
 </div>
 
-🔭 I’m currently working on Personal E-commerce App <br>👯 I’m looking to collaborate on Web and Mobile developer<br>🌱 I’m currently learning Create an amazing, modern and scaleable app<br>💬 Ask me about Programming
+I'm fullstack web developer, i love making modern app with modern tools, feel free to explore my profile.
+<!-- 🔭 I’m currently working on Personal E-commerce App <br>👯 I’m looking to collaborate on Web and Mobile developer<br>🌱 I’m currently learning Create an amazing, modern and scaleable app<br>💬 Ask me about Programming -->
 
 ## 🌐 Socials:
 
